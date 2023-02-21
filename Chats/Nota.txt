@@ -1,0 +1,13 @@
+1. Implementar una aplicación de chat con una vista (consejo TableView) para mostrar la conversación 8 pts
+2. Configurar notificaciones push para que la aplicación reciba los mensajes a través de ellas 5 pts  <--- NOTIFICIONES
+3. Al recibir una notificación debe aparecer el mensaje en la conversación 10 pts <--- NOTIFICIONES
+4. Los mensajes recibidos deben aparecer a la izquierda y los enviados a la derecha 5 pts
+5. Se puntuará el diseño de la interfaz 10 pts
+6. Si la app está abierta se mostrará automáticamente en la lista de mensajes 10 pts <--- NOTIFICIONES
+7. Al enviar un mensaje desde la app se debe entregar al destinatario utilizando la función PHP 10 pts <--- NOTIFICIONES
+8. posibilidad de eliminar un mensaje recibido 7 pts
+9. Almacenar los mensajes en el dispositivo para que se mantengan aunque se cierre la aplicación 10 pts
+10. Listado de personas que permita tener conversaciones con diferentes personas 15 pts
+11. Cuando reciba una notificación, al tocarla debe abrir la pantalla de la conversación (es necesario implementar el punto anterior) 5pts <--- NOTIFICIONES
+12. Cuando no tenemos mensajes sin leer no debe aparecer el badge en el icono de la aplicación 5 pts <--- NOTIFICIONES
+13. Poder enviar/responder a los mensajes desde la propia notificación (mensajes fijos, p. ej: "Estoy ocupado, te llamo más tarde")
